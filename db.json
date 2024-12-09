@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Blog Web Application",
+      "description": "A blogging platform built with HTML, CSS, JAVASCRIPT & FIREBASE",
+      "image": "./Images/Blog.jpg",
+      "link": "https://mohammadazeem66.github.io/Mini-Hakaton-Test/"
+    },
+    {
+      "id": 2,
+      "title": "Age Calculator",
+      "description": "Age Calculator built with HTML, CSS & JAVASCRIPT",
+      "image": "./Images/Age-calculator.jpg",
+      "link": "https://mohammadazeem66.github.io/Age-Calculator/"
+    },
+    {
+      "id": 3,
+      "title": "Digital Clock",
+      "description": "Digital Clock built with HTML, CSS & JAVASCRIPT",
+      "image": "./Images/Digital-Clock.jpg",
+      "link": "https://mohammadazeem66.github.io/Digital-clock/"
+    }
+  ]
+}
