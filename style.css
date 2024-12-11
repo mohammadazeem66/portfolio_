@@ -632,6 +632,12 @@ nav label.cancel {
       width: 35px; /* Reduce icon size for smaller screens */
       height: 35px;
   }
+  #footer-contact{
+    display: none;
+  }
+  #footer-tabs, #footer-icons {
+    text-align: center;
+}
 }
 
 @media (max-width: 480px) {
